@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @havaianas
 - 👀 I’m interested in professional reorientation.
 - 🌱 I’m currently learning Rust.
-- 💞️ I’m looking to collaborate on ... I don't know yet.
+- 💞️ I’m looking to collaborate on ... we will see...
 - 📫 How to reach me ... (soon...)
 
 <!---
